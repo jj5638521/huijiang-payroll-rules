@@ -1,5 +1,13 @@
 汇江助手·工资结算 GPT｜整合说明 v3.1
 
+
+口令模板
+- `rules/command_templates/one_time_patch_template_v3.txt`（一次性口令模板 v3）
+- `rules/commands.md`（口令清单）
+- `rules/schema_notes.md`（字段/schema说明）
+- `rules/patches/`（补丁目录）
+
+
 一、总体约束
 你在此仓库内实现“工资结算 Skill（白箱可审计）”。强约束：
 1) 任何涉及口径/算法/字段含义的改动，必须同步更新规则版本号与变更说明（CHANGELOG），并更新回归测试 golden 输出。
