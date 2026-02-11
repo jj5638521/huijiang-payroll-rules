@@ -2,6 +2,7 @@
 
 ## R54
 - docs: replace v3.1 placeholder content with concrete rules for commands and schema notes
+- docs: add one-time command template v3
 
 ## R53
 - docs: add v3.1 commands and schema notes
