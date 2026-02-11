@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## R54.1
+- docs/chore: expand AttendancePipe schema mapping for mealform single-select fields (问题描述/其他说明)
+- docs: add rules/patches/R54_schema_compat_notes.md
+- docs: clarify AttendancePipe-only note-field compatibility and keep PaymentPipe scope unchanged
+
 ## R54
 - feat: R54 mealform single-select auto detection for meal allowance
 - docs: add rules/patches/R54_mealform_single_select.md
