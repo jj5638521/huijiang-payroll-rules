@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## R54.2
+- test/docs: add regression cases for mealform single-select mapping
+- docs: add rules/regression_cases/R54_mealform_single_select.md
+- docs: add regression index link in rules/README_rules.md
+
 ## R54.1
 - docs/chore: expand AttendancePipe schema mapping for mealform single-select fields (问题描述/其他说明)
 - docs: add rules/patches/R54_schema_compat_notes.md

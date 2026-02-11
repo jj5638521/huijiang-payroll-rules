@@ -8,6 +8,10 @@
 - `rules/patches/`（补丁目录）
 
 
+回归用例索引
+- `rules/regression_cases/R54_mealform_single_select.md`（R54：施工表单单选项映射与餐补口径回归）
+
+
 一、总体约束
 你在此仓库内实现“工资结算 Skill（白箱可审计）”。强约束：
 1) 任何涉及口径/算法/字段含义的改动，必须同步更新规则版本号与变更说明（CHANGELOG），并更新回归测试 golden 输出。
